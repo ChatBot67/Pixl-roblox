@@ -32,3 +32,11 @@ Day 5 :
 <img width="1813" height="1077" alt="image" src="https://github.com/user-attachments/assets/170e70a4-82d1-4276-822b-8690b4ef8df6" />
 Till today i have completed this much and my time tracke in hackatime is 5hrs and now i need to do 4 hrs more.
 I currently have many more ideas to add and yay this one is going to be a fun one !!
+Day 6 : 
+I added more stages like for eg one where u can phase through one part and other kills you
+day 7 :
+My obby finally got finished and now i will be moving onto the atmosphere and the 
+day 8 , day 9 and day 10(final)
+Throughout these days i focused on the terrain and i am proud of what i made
+<img width="1916" height="1078" alt="image" src="https://github.com/user-attachments/assets/632a06e2-fa44-493d-845c-4cc5b330345b" />
+This project was truly fun to do and i was completely invested in it lowkey.One of the most important this taught me is dedication like i didnt even knew 2 hrs were already gone while i was doing it and i am very very very happy wiyh what i made and i will be looking forward to improving my game and also participating in later events of hackclub.
